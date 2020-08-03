@@ -85,4 +85,4 @@ Copy each secret file into file without `.sample` in filename and populate it. A
 
 Copyright (c) 2019 Rendered Text
 
-Distributed under the MIT License. See the file [LICENSE.md](./LICENSE.md).
+Distributed under the MIT License. See the file [LICENSE.md](./LICENSE.md)
